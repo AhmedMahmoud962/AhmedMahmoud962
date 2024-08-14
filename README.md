@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I am FrontEnd developer 
 
-![I am FrontEnd developer]([https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif](https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0))
+![I am FrontEnd developer](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)
 
 I am FrontEnd Developer. I studied at the Faculty of Computers and Information and I have the ability to learn. In addition to my experience in the field of web development, I have done projects using HTML, CSS, JavaScript , BootStrap and React.js in this field and gained experience in web development.
 
