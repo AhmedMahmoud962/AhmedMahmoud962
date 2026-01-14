@@ -5,7 +5,7 @@ I am FrontEnd developer
 
 ![I am FrontEnd developer](https://i.pinimg.com/originals/02/74/20/0274207612d515f49012c87803a9e631.gif)
 
-I am FrontEnd Developer. I studied at the Faculty of Computers and Information and I have the ability to learn. In addition to my experience in the field of web development, I have done projects using HTML, CSS, JavaScript , BootStrap and React.js in this field and gained experience in web development.
+I'm an ambitious and hardworking frontend developer with experience in HTML, CSS, Bootstrap, JavaScript, React.js, and Next.js. I build dynamic, responsive, and high-performance web applications.
 
 * 🌍  I'm based in Egypt
 * 🖥️  See my portfolio at [Myportfolio](https://ahmed-mahmoud.vercel.app/)
